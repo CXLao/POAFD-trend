@@ -1,0 +1,1 @@
+POAFD-trend theory decomposes data signals into a trend component and its complementary parts. By combining statistical analysis with the stochastic POAFD algorithm, we achieve highly accurate forecasts for similar datas categories.
